@@ -1,0 +1,9 @@
+package br.com.rd.politeismo.ecommerce.orm;
+
+public class DepartamentoCategoria {
+
+	public DepartamentoCategoria() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.dev.sergio.aula.controllers;
+
+public class UsuarioController {
+
+	public UsuarioController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

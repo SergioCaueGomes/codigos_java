@@ -1,0 +1,9 @@
+package com.dev.sergio.springb.userdept;
+
+public class UserRepository {
+
+	public UserRepository() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.dev.sergio.aula.dto;
+
+public class UsuarioDto {
+
+	public UsuarioDto() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

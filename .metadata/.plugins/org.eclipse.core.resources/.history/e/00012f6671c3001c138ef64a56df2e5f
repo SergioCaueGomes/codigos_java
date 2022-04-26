@@ -1,0 +1,18 @@
+package com.dev.sergio.springb.userdept.controllers;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.dev.sergio.springb.userdept.entities.User;
+
+@RestController
+@RequestMapping(value = "/users")
+public class UserController {
+	
+	public List<User> findAll(){
+		
+	}
+
+}

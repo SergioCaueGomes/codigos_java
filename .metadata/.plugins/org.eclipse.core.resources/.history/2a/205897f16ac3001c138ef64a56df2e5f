@@ -1,0 +1,14 @@
+package com.dev.sergio.springb.userdept.entities;
+
+public class User {
+	
+	private Long id;
+	private String name;
+	private String email;
+	
+	
+	public User() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

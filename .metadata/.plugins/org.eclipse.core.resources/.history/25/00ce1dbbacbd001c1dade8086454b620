@@ -1,0 +1,20 @@
+package br.com.rd.politeismo.ecommerce.orm;
+
+import br.com.rd.politeismo.ecommerce.orm.Departamento;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "DEPARTAMENTO_CATEGORIA")
+public class DepartamentoCategoria {
+
+	public DepartamentoCategoria() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	private Departamento idDepartamento;
+	private Categoria idCategoria;
+	
+
+}

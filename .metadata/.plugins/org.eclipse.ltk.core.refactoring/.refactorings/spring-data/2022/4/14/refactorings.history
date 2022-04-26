@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;br.com.rd.queroserdev.spring.data.repository.Funcionario.java&apos; to &apos;FuncionarioRepository.java&apos;&#x0A;- Original project: &apos;spring-data&apos;&#x0A;- Original element: &apos;br.com.rd.queroserdev.spring.data.repository.Funcionario.java&apos;&#x0A;- Renamed element: &apos;br.com.rd.queroserdev.spring.data.repository.FuncionarioRepository.java&apos;" description="Rename compilation unit &apos;Funcionario.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.rd.queroserdev.spring.data.repository{Funcionario.java" name="FuncionarioRepository.java" references="false" stamp="1648818912080" version="1.0"/>
+</session>

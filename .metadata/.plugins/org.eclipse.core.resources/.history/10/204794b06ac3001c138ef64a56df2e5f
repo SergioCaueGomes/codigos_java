@@ -1,0 +1,9 @@
+package com.dev.sergio.springb.userdept.entities;
+
+public class Department {
+
+	public Department() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

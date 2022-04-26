@@ -1,0 +1,9 @@
+package com.dev.sergio.aula.repositories;
+
+public class UsuarioRepository {
+
+	public UsuarioRepository() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

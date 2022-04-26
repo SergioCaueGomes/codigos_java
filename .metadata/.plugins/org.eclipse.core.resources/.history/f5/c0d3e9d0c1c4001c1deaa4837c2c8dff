@@ -1,0 +1,2 @@
+INSERT tb_usuario (name, password) VALUES ('Maria','12763721371263821');
+INSERT tb_usuario (name, password) VALUES ('Maria','12763721371263821');

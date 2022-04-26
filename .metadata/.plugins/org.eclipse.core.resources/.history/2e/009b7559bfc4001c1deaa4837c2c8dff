@@ -1,0 +1,26 @@
+package com.dev.sergio.aula.dto;
+
+import com.dev.sergio.aula.entities.Usuario;
+
+public class UsuarioDTO {
+
+	private Long id;
+	private String name;
+	
+	public UsuarioDTO() {
+		
+	}
+
+	public UsuarioDTO(Long id, String name) {
+		
+		this.id = id;
+		this.name = name;
+	}
+	public UsuarioDTO(Usuario usuario) {
+		
+		id = usuario.getId();
+		name = usuario.getName();
+	}
+	
+	
+}

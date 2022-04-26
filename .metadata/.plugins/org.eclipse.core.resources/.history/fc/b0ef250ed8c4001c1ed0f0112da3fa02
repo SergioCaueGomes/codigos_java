@@ -1,0 +1,2 @@
+INSERT INTO tb_usuario (name, password) VALUES (Ana, 1234567890);
+INSERT INTO tb_usuario (name, password) VALUES (Jonas, 0987654321);
